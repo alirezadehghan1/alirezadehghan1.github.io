@@ -111,3 +111,12 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+params:
+    hideFooter: true
+    socialIcons:
+        - name: telegram
+          url: https://t.me/ٍEinradal
+    label:
+      #text: "Aryan Ahadinia"
+      icon: /favicon.ico
+      iconHeight: 18
