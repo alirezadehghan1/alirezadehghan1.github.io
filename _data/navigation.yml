@@ -4,10 +4,10 @@ main:
   - title: "Education"
     url: /edu/    
   - title: "Publications"
-    url: /posts/
+    url: /papers/
   - title: "Projects and Research"
-    url: /categories/
+    url: /R&P/
   - title: "Teaching Experiences"
     url: /TAs/
   - title: "Professional Experiences"
-    url: /tags/
+    url: /Experiences/
