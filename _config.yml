@@ -110,9 +110,9 @@ params:
       #text: "Alireza Dehghan"
       icon: /favicon.ico
       iconHeight: 18
-    socialIcons:
-        - name: telegram
-          url: https://t.me/Einredal     
+    #socialIcons:
+        #- name: telegram
+          #url: https://t.me/Einredal     
 
 category_archive:
   type: liquid
