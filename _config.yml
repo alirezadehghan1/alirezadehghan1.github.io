@@ -104,9 +104,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-params:
-    hideFooter: true
-    label:
+#params:
+    #hideFooter: true
+    #label:
       #text: "Alireza Dehghan"
       icon: /favicon.ico
       iconHeight: 18
