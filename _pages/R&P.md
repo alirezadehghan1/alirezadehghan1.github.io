@@ -1,6 +1,6 @@
 ---
 title: "Projects and Research"
-permalink: /posts/
+permalink: /R&P/
 #layout: posts
 #author_profile: true
 ---
