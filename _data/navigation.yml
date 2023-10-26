@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "About Me"
     url: /about/
+  - title: "Education"
+    url: /edu/    
+  - title: "Publications"
+    url: /posts/
+  - title: "Projects and Research"
+    url: /categories/
+  - title: "Teaching Experiences"
+    url: /TAs/
+  - title: "Professional Experiences"
+    url: /tags/
