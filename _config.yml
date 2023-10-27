@@ -81,7 +81,8 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/alirezadehghan1/"
-
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 #footer:
   #links:
     #- label: "Twitter"
