@@ -127,6 +127,6 @@ params:
         - name: telegram
           url: https://t.me/ٍEinradal
     label:
-      #text: "Aryan Ahadinia"
+      #text: "Alireza Dehghan"
       icon: /favicon.ico
       iconHeight: 18
