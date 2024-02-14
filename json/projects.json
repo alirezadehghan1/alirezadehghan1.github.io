@@ -2,14 +2,14 @@
   "projects": [{
       "name": "Persian News Categorization and Sentiment Analysis",
       "link": "https://github.com/alirezadehghan1/Persian-News-Categorization-and-Sentiment-Analysis-Using-NLP-and-ML",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p1.jpg",
       "type": "type1",
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
     },
     {
       "name": "Data Analytics and Implementing Quality Control Charts",
       "link": "https://github.com/alirezadehghan1/Statistical-Quality-Control",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p2.jpg",
       "description": "A statistical analysis of process capability and quality control using Minitab.",
       "type": "type1",
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
@@ -17,7 +17,7 @@
     {
       "name": "Data-Driven Analysis of Urban Transportation",
       "link": "https://github.com/alirezadehghan1/Transportation-Planning",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p3.jpg",
       "description": "Comprehensive analyzing of pricing system performance of an online taxi app/ride sharing through real dataset using Python.",
       "type": "type1",
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
@@ -25,7 +25,7 @@
     {
       "name": "Analyzing Revenue Model and User Behavior in a Health Products Company",
       "link": "https://github.com/alirezadehghan1/Business-Intelligence-Dashboard-for-Health-Company-Sales-Data",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p4.jpg",
       "description": "Business intelligence dashboard for health company sales data.",
       "type": "type1",
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
@@ -33,14 +33,14 @@
     {
       "name": "Evaluating the Impact of Interventions on Student Success",
       "link": "https://github.com/alirezadehghan1/Evaluating-the-Impact-of-Interventions-on-Student-Success",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p5.jpg",
       "type": "type1",
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
     },
     {
       "name": "Bike Sharing Trends Analytics",
       "link": "https://github.com/alirezadehghan1/Bike-Sharing-Trends-Analytics",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p6.jpg",
       "description": "Comprehensive analysis and visualization within a big dataset of bike sharing with employing machine learning algorithms like Linear Regression and Decision Trees to predict bike counts.",
       "type": "type1",
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
@@ -48,7 +48,7 @@
     {
       "name": "Body Fat Prediction",
       "link": "https://github.com/alirezadehghan1/Body-Fat-Prediction",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p7.jpg",
       "type": "type1",
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
     },
