@@ -1,13 +1,13 @@
 {
   "projects": [{
-      "name": "Persian News Categorization and Sentiment Analysis",
+      "name": "6. Persian News Categorization and Sentiment Analysis",
       "link": "https://github.com/alirezadehghan1/Persian-News-Categorization-and-Sentiment-Analysis-Using-NLP-and-ML",
       "image": "/img/projects/p1.jpg",
       "type": "type1",
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
     },
     {
-      "name": "Data Analytics and Implementing Quality Control Charts",
+      "name": "4. Data Analytics and Implementing Quality Control Charts",
       "link": "https://github.com/alirezadehghan1/Statistical-Quality-Control",
       "image": "/img/projects/p2.jpg",
       "description": "A statistical analysis of process capability and quality control using Minitab.",
@@ -15,7 +15,7 @@
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
     },
     {
-      "name": "Data-Driven Analysis of Urban Transportation",
+      "name": "1. Data-Driven Analysis of Urban Transportation",
       "link": "https://github.com/alirezadehghan1/Transportation-Planning",
       "image": "/img/projects/p3.jpg",
       "description": "Comprehensive analyzing of pricing system performance of an online taxi app/ride sharing through real dataset using Python.",
@@ -23,7 +23,7 @@
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
     },
     {
-      "name": "Analyzing Revenue Model and User Behavior in a Health Products Company",
+      "name": "3. Analyzing Revenue Model and User Behavior in a Health Products Company",
       "link": "https://github.com/alirezadehghan1/Business-Intelligence-Dashboard-for-Health-Company-Sales-Data",
       "image": "/img/projects/p4.jpg",
       "description": "Business intelligence dashboard for health company sales data.",
@@ -31,14 +31,14 @@
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
     },
     {
-      "name": "Evaluating the Impact of Interventions on Student Success",
+      "name": "5. Evaluating the Impact of Interventions on Student Success",
       "link": "https://github.com/alirezadehghan1/Evaluating-the-Impact-of-Interventions-on-Student-Success",
       "image": "/img/projects/p5.jpg",
       "type": "type1",
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
     },
     {
-      "name": "Bike Sharing Trends Analytics",
+      "name": "2. Bike Sharing Trends Analytics",
       "link": "https://github.com/alirezadehghan1/Bike-Sharing-Trends-Analytics",
       "image": "/img/projects/p6.jpg",
       "description": "Comprehensive analysis and visualization within a big dataset of bike sharing with employing machine learning algorithms like Linear Regression and Decision Trees to predict bike counts.",
@@ -46,23 +46,23 @@
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
     },
     {
-      "name": "Body Fat Prediction",
+      "name": "8. Body Fat Prediction",
       "link": "https://github.com/alirezadehghan1/Body-Fat-Prediction",
       "image": "/img/projects/p7.jpg",
       "type": "type1",
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
     },
     {
-      "name": "Breast Cancer Gene Expression Analysis",
+      "name": "7. Breast Cancer Gene Expression Analysis",
       "link": "https://github.com/alirezadehghan1/Breast-Cancer-Gene-Expression-Analysis",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p8.jpg",
       "type": "type1",
       "icon": "<i class='fa-solid fa-laptop-code fa-fw fa-2x'></i>"
     },
     {
       "name": "Database Modeling and Implementation for Steel Product Sales Management",
       "link": "https://github.com/alirezadehghan1/Relational-Database-Modeling",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p9.jpg",
       "description": "Entity relationship diagramming and database creation for steel company sales via MS Access",
       "type": "type3",
       "icon": "<i class='fa-solid fa-drafting-compass fa-fw fa-2x'></i>"
@@ -70,14 +70,14 @@
     {
       "name": "Designing a Smart Assistant to Track Expenses and Generate Reports for Building Managers",
       "link": "https://github.com/alirezadehghan1/Automated-Bookkeeping-and-building-financial-management",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p10.jpg",
       "type": "type3",
       "icon": "<i class='fa-solid fa-drafting-compass fa-fw fa-2x'></i>"
     },
     {
       "name": "Optimizing After-Sales Service Network Configuration Via Linear Programming",
       "link": "https://github.com/alirezadehghan1/Operation-Research",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p11.jpg",
       "description": "Developing a logistic model in an after-sales service network that minimizes costs and traffic within the network and determines flows of products, location, and capacity through optimal allocation, using Lingo.",
       "type": "type2",
       "icon": "<i class='fa-solid fa-chess-knight fa-fw fa-2x'></i>"
@@ -85,7 +85,7 @@
     {
       "name": "Portfolio Optimization with Five Stocks",
       "link": "https://github.com/alirezadehghan1/Financial-Management",
-      "image": "https://unsplash.it/350/250",
+      "image": "/img/projects/p12.jpg",
       "description": "Derivation of markowitz boundary diagram and calculation of the variance covariance matrix and then optimal weight for each stock based on 48 historical observations of monthly stock prices.",
       "type": "type2",
       "icon": "<i class='fa-solid fa-chess-knight fa-fw fa-2x'></i>"
