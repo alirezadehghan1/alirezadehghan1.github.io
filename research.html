@@ -121,7 +121,53 @@
           <li>Lastname, X. (1999). Article title. <em>Journal Title, 33</em>(5), 100-110. doi:10.1099/1525.1999.12</li>
         </ul>-->
 
-        <h3><span>Papers</span></h3>
+        <head>
+        <style>
+        dt {
+          cursor: pointer;
+        }
+        
+        dd {
+          display: none;
+        }
+        </style>
+        </head>
+        
+        <<h3><span>Papers</span></h3>
+
+        <dl id="papers">
+          <dt onclick="toggle('desc1')">XAI Approach to Predict Burnout and Depression among Medical Students</dt>
+          <dd id="desc1">This is my undergraduate thesis which is in preparation and I am currently working on it under the supervision of Prof. Shokraneh K. Moghaddam</dd>
+          <dt onclick="toggle('desc1')">Knowledge Discovery for Anthropometric Measures Using Data Mining Techniques<br>Chegini, A.; Dehghan, A.; Ghousi, R.; (2023)</dt>
+          <p> </p>
+          <dd id="desc1"> 
+            <img id="paper1" src="/img/1.JPG" alt="paper"> 
+          </dd>
+          <dt onclick="toggle('desc1')">Time Series Forecasting of Active Customers Using Sequence Models: A Comparative Evaluation</dt>
+          <p> </p>
+          <dd id="desc1"> 
+            <img id="paper2" src="/img/2.JPG" alt="paper"> 
+          </dd>
+          <dt onclick="toggle('desc1')">Assessing the Potential of Machine Learning in Medical Diagnosis</dt>
+          <dd>It was a course research project</dd>
+          <dd> 
+            <img id="paper3" src="/img/3.JPG" alt="paper"> 
+          </dd>
+        </dl>        
+
+        <script>
+        function toggle(id) {
+          var x = document.getElementById(id);
+          if (x.style.display === "none") {
+            x.style.display = "block";
+          } else {
+            x.style.display = "none";
+          }
+        }
+        </script>
+
+          
+        <!--<h3><span>Papers</span></h3>
 
         <dl id="papers">
           <dt>XAI Approach to Predict Burnout and Depression among Medical Students</dt>
@@ -141,7 +187,7 @@
           <dd> 
             <img id="paper3" src="/img/3.JPG" alt="paper"> 
           </dd>
-        </dl>
+        </dl>-->
 
 
         <!--<h3><span>Select Invited Talks</span></h3>
