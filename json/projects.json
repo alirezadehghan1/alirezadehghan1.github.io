@@ -89,6 +89,14 @@
       "description": "Derivation of markowitz boundary diagram and calculation of the variance covariance matrix and then optimal weight for each stock based on 48 historical observations of monthly stock prices.",
       "type": "type2",
       "icon": "<i class='fa-solid fa-chess-knight fa-fw fa-2x'></i>"
-    }
+    },
+    {
+      "name": "Job Shop Scheduling",
+      "link": "https://github.com/alirezadehghan1/Mixed-Integer-Programming",
+      "image": "/img/projects/p13.jpg",
+      "description": "Optimizing a production scheduling problem. Mathematical modeling and solving it through GAMS and Python by both GurobiPy and Pyomo libraries. Also, Gantt chart visualizing and sensitivity analysis have been conducted.",
+      "type": "type2",
+      "icon": "<i class='fa-solid fa-chess-knight fa-fw fa-2x'></i>"
+    }    
   ]
 }
