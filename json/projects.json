@@ -93,7 +93,7 @@
     {
       "name": "Job Shop Scheduling",
       "link": "https://github.com/alirezadehghan1/Mixed-Integer-Programming",
-      "image": "/img/projects/p13.jpg",
+      "image": "/img/projects/p13.jfif",
       "description": "Optimizing a production scheduling problem. Mathematical modeling and solving it through GAMS and Python by both GurobiPy and Pyomo libraries. Also, Gantt chart visualizing and sensitivity analysis have been conducted.",
       "type": "type2",
       "icon": "<i class='fa-solid fa-chess-knight fa-fw fa-2x'></i>"
