@@ -433,20 +433,4 @@ input::placeholder {
   }
 
 
-  
-  .btn-outline-pink {
-    border: 2px solid pink;
-    background-color: white;
-    color: black;
-    padding: 10px 20px;
-    cursor: pointer;
-    margin-right: 10px;
-  }
-  
-  .btn-outline-pink:hover {
-    background-color: pink;
-    color: white;
-  }
-
-
 }
