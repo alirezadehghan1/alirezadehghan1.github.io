@@ -10,12 +10,28 @@
           <li><a class="text-light" data-toggle='tooltip' data-offset="0 15" data-placement='top' title="Google Scholar" href="https://scholar.google.com/citations?hl=en&user=gwJRkJgAAAAJ" target="_blank"><i class="fab fa-google fa-2x"></i></a></li>
         </ul>
 
-        <!-- Clustrmaps Globe Widget -->
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QP9YRMF3uGOHojjoE23_i5z-UifbQBlZm2z5rNeMsIQ"></script>
-        
+        <div class="clustrmaps-container text-center">
+          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=QP9YRMF3uGOHojjoE23_i5z-UifbQBlZm2z5rNeMsIQ"></script>
+        </div>
+
         <p class="text-center text-light mt-3">&copy; <span id="footer-year"></span> &nbsp;Alireza Dehghan</p>
       </div>
     </div>
   </div>
+
+  <style>
+    .clustrmaps-container {
+      max-width: 180px;
+      margin: 10px auto;
+      transform: scale(0.8);
+      transform-origin: center;
+    }
+
+    #clstr_globe {
+      width: 100% !important;
+      height: auto !important;
+    }
+  </style>
+  
 </footer>
 
