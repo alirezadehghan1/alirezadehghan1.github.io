@@ -104,15 +104,15 @@
       "image": "/img/projects/p14.jpg",
       "description": "A MATLAB-based application to automate end-to-end procurement workflows for engineering/manufacturing companies. It solves critical pain points in order lifecycle management, financial tracking, and multi-currency cargo coordination, replacing error-prone manual processes with a unified digital platform.",
       "type": "type3",
-      "icon": "<i class='fa-solid fa-chess-knight fa-fw fa-2x'></i>"
+      "icon": "<i class='fa-solid fa-drafting-compass fa-fw fa-2x'></i>"
     },
     {
       "name": "Pricify",
       "link": "https://github.com/alirezadehghan1/Pricify",
-      "image": "/img/projects/p15.jpg",
+      "image": "/img/projects/p15.png",
       "description": "TBD.",
       "type": "type3",
-      "icon": "<i class='fa-solid fa-chess-knight fa-fw fa-2x'></i>"
+      "icon": "<i class='fa-solid fa-drafting-compass fa-fw fa-2x'></i>"
     }        
   ]
 }
