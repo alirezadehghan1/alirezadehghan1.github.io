@@ -110,7 +110,7 @@
       "name": "Pricify",
       "link": "https://github.com/alirezadehghan1/Pricify",
       "image": "/img/projects/p15.png",
-      "description": "TBD.",
+      "description": "Pricify, ideal for cost analysts, supply-chain managers, and operations teams; it can be an assistant for pricing engineering parts, analyzing quantity breaks, and tracking supplier performance. Pricify combines regex-based string cleansing and modular search callbacks to perform deep data filtering and statistical aggregation empowering users to uncover pricing trends and make data-driven decisions.",
       "type": "type3",
       "icon": "<i class='fa-solid fa-drafting-compass fa-fw fa-2x'></i>"
     }        
